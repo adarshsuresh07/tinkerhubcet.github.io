@@ -254,6 +254,7 @@ h6 {
 
 .nav-menu > li {
   float: left;
+  style="font-size:50px"
 }
 
 .nav-menu li:hover > ul,
